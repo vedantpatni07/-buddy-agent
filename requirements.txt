@@ -1,0 +1,11 @@
+# Buddy Agent - Simple Web Interface Dependencies
+
+# Web framework
+Flask>=2.0.0
+
+# Document processing
+pdfplumber>=0.9.0
+python-docx>=0.8.11
+
+# Basic dependencies
+numpy>=1.24.0
